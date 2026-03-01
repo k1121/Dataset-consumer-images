@@ -9,5 +9,9 @@ DSNU=0.191±0.005 DNs
 Gain K=0.781±0.006 DN/e
 Dark temporal noise=2.479±0.004 DN.
 
-Dataset can be downloaded from the:
+Dataset consists of
+1) 6 single images:
+can be downloaded from the:
 https://disk.yandex.ru/d/I4e-1lJ-Akw_jA
+2) 361 images with multiple parameters changing:
+https://drive.google.com/drive/folders/1EjS2bWF-34KZct__MFo4itYfHaVQZ6_h?usp=drive_link
