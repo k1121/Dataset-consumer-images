@@ -14,3 +14,7 @@ Dataset consists of
    https://disk.yandex.ru/d/I4e-1lJ-Akw_jA
 * 361 images with multiple parameters changing:  
 https://drive.google.com/drive/folders/1EjS2bWF-34KZct__MFo4itYfHaVQZ6_h?usp=drive_link
+
+The dataset was presented in the paper:  
+> Kozlov A.V., Cheremkhin P.A., Volkpv A.A., et al. "Camera Noise Extraction From a Raw Single Image by Segmentation, Multiple Approximations, and Weighted Averaging," IEEE Access, vol. 14, pp. 51768-51782, 2026.  
+>  https://doi.org/10.1109/ACCESS.2026.3680166. 
